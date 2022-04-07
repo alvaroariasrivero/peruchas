@@ -29,7 +29,7 @@ nav{
 }
 
 p{
-    text-align: justify;
+    text-align: center;
 }
 
 a:link, a:visited, a:active {
@@ -60,7 +60,7 @@ footer{
 #goUp{
     width: 7%;
     position: fixed;
-    bottom: 1.5rem;
+    bottom: 0;
     right: 0
 }
 
